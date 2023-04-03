@@ -1,0 +1,4 @@
+monty==2021.8.17
+networkx==2.6.3
+numpy==1.21.2
+pyvis==0.1.9
